@@ -1,0 +1,39 @@
+Installation
+************
+step-1: Node.js Installation
+step-2: npx create-react-app all-about-react
+step-3: npm start
+
+Tailwind CSS integration
+************************
+step-1: npm install -D tailwindcss
+step-2: npx tailwindcss init
+step-3: content: [
+            "./src/**/*.{js,jsx,ts,tsx}",
+        ],
+stpe-4: Adding In index.css
+        @tailwind base;
+        @tailwind components;
+        @tailwind utilities;
+
+Course
+******
+- UI Bulding with less complexity.
+- SPA (Single Page Application)
+- Virtual DOM
+- States and Props
+- Components
+  - Class Based Components
+  - Functional Components
+- Folder Structure of React Application
+- Normal CSS Connection and Removing the Unnecessary Codes
+- Import and Export (Normal and Defalt)
+- Tailwind CSS integration and its use
+- JSX (Javascript Syntax Extension) : Javascript + HTML
+- class vs ClassName
+- Pure Components and Higher Order Component
+- JS vs JSX
+- Prop Passing and its Unidirectional Property (Parent to Child)
+=>
+- Prop Drilling
+- State Management

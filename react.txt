@@ -1,6 +1,7 @@
 Installation
 ************
 step-1: Node.js Installation
+step-2: npm install -g npm
 step-2: npx create-react-app all-about-react
 step-3: npm start
 

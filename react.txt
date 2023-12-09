@@ -19,6 +19,7 @@ stpe-4: Adding In index.css
 
 Course
 ******
+=> Day-1
 - UI Bulding with less complexity.
 - SPA (Single Page Application)
 - Virtual DOM
@@ -28,13 +29,15 @@ Course
   - Functional Components
 - Folder Structure of React Application
 - Normal CSS Connection and Removing the Unnecessary Codes
-- Import and Export (Normal and Defalt)
+- Import and Export (Named and Defalt)
 - Tailwind CSS integration and its use
 - JSX (Javascript Syntax Extension) : Javascript + HTML
 - class vs ClassName
 - Pure Components and Higher Order Component
 - JS vs JSX
 - Prop Passing and its Unidirectional Property (Parent to Child)
-=>
-- Prop Drilling
+
+=> Day-2
+- Prop Drilling and its Disadvantages
+- In react Every component should return a single wrapped parent. 
 - State Management

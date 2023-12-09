@@ -1,13 +1,13 @@
-import MyComponent from "./components/MyComponent";
+// import { A } from "./components/A";
+import Increment_and_Decrement from "./components/Increment_and_Decrement";
 
-function App({abc}) {
+function App() {
   // props
-  let a = 10;
+  // let a = 10;
   return (
     <div className="text-2xl font-semibold">
-        <p>Recived From Index: {abc}</p>
-       <MyComponent a={a} subodh = {abc} />
-       {/* <p>{a}</p> */}
+       {/* <A value = {a} /> */}
+       <Increment_and_Decrement/>
     </div>
   );
 }

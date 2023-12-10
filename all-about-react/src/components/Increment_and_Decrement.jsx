@@ -2,9 +2,10 @@ import React, { useState } from "react";
 
 const Increment_and_Decrement = () => {
   // State
+  // Variable Of React
   const [num, setNum] = useState(500);
   // Increment Function
-  function Increment() {
+  const Increment = () => {
     setNum(num + 1);
     console.log(num);
   }
@@ -22,6 +23,7 @@ const Increment_and_Decrement = () => {
       <button
         onClick={() => {
           setNum(num - 1);
+          console.log(num);
         }}
         className="cursor-pointer px-5 py-1 bg-red-500 rounded-md text-white hover:bg-red-600 mt-2 mx-4"
       >

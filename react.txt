@@ -40,4 +40,21 @@ Course
 => Day-2
 - Prop Drilling and its Disadvantages
 - In react Every component should return a single wrapped parent. 
-- State Management
+- State Management and useState() Hook
+- useState Hook provides two arguments in the parameter where the first refers to the value and the second one updates the value.
+
+=> Day-3
+- Render - Changes in the UI.
+- Conditional Rendering
+  - if-else
+  - ternary
+  - Logical Operation
+- Event Handeling
+  - onClick()
+  - onChange()
+  - onMouseEnter()
+  - etc..
+- Event Bubbling - Event Bubbling is a concept in the DOM (Document Object Model). It happens when an element receives an event, and that event bubbles up (or you can say is transmitted or propagated) to its parent and ancestor elements in the DOM tree until it gets to the root element.
+- Form Control
+- Controling a form having Multiple Inputs in a single Function.
+- "..." : Spread Operator

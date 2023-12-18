@@ -58,3 +58,10 @@ Course
 - Form Control
 - Controling a form having Multiple Inputs in a single Function.
 - "..." : Spread Operator
+
+=> Day-4
+- useEffect() hook
+- Some task that will be done after the rendering of the page.
+- There are 3 states of useEffect() Hook.
+- Calling Api using Fetch.
+- Note: Developer shuld and must know the difference between each types of useEffect() hook.

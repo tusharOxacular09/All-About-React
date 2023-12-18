@@ -1,11 +1,11 @@
-// import ConditionalRendering from "./components/ConditionalRendering";
+// import FetchData from "./component2/FetchData";
 import LoginPage from "./components/LoginPage";
 
 function App() {
   return (
-    <div className="text-2xl font-semibold">
-      {/* <ConditionalRendering /> */}
-      <LoginPage/>
+    <div className="text-xl font-medium">
+      {/* <FetchData/> */}
+      <LoginPage />
     </div>
   );
 }

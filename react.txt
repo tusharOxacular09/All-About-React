@@ -65,3 +65,15 @@ Course
 - There are 3 states of useEffect() Hook.
 - Calling Api using Fetch.
 - Note: Developer shuld and must know the difference between each types of useEffect() hook.
+
+=> Day-5
+- Disadvantages and Advantages of Prop Drilling?
+- How to overcome Prop Drilling?
+- Context Api
+  - create a Context
+  - Provide the Context
+  - use the context
+- useContext() Hook
+- Disadvantages and Advantages of Context Api.
+- Outside the Provider we cant use the context.
+- We can also pass setter function of any particuar state using context API.

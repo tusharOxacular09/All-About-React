@@ -77,3 +77,14 @@ Course
 - Disadvantages and Advantages of Context Api.
 - Outside the Provider we cant use the context.
 - We can also pass setter function of any particuar state using context API.
+
+=> Day-6
+- React Router
+- npm install react-router-dom
+- {BrowsRouter, Routes, Route, Link, useNavigate}
+- useNavigate() Hook
+- Link: Alternative and more superior than anchor tag.
+- Passing Data to another page through useNavigate() hook.
+- useLocation() hook.
+- Nested Router
+- Outlet : Children Route Container
